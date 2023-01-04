@@ -1,0 +1,43 @@
+
+
+body {
+    background-color: #FFADBC;
+    text-align: center;
+    margin-top:80px ;
+}
+
+.menu{
+    margin-right:2%;
+}
+
+.content {
+    margin-left: 45%; 
+    text-align:justify ;
+}
+
+.sayfa-sonu{
+    font-style: italic;
+    font-weight:bold;
+}
+
+.navi-blue{
+    color:#0A2647
+}
+
+.product-footer {
+
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #0A2647;
+}
+
+
+.text-align {
+    text-align: center;
+}
+
+
+.font-size {
+    font-size: 17px;
+}
